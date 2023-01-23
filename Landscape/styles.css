@@ -1,0 +1,172 @@
+body {
+    background-image: url('Images/stone.jpeg');
+}
+
+.container {
+    position: relative;
+    min-width: 720px;
+}
+div {
+    min-width: 720px; 
+}
+
+img {
+    min-width: 720px;
+    width: 100vw;
+}
+.home {
+    left:9.6%;
+    top:7%;
+    width:4.5%;
+    height:2%;
+}
+.overview {
+    width: 7%;
+    height: 2%;
+    left:18.5%;
+    top:7%;
+}
+.custom {
+    width: 15.5%;
+    height:2%;
+    left:29.5%;
+    top:7%;
+}
+.surface {
+    width: 5.5%;
+    height:2%;
+    left:49%;
+    top:7%;  
+}
+.underground {
+    width: 9.5%;
+    height:2%;
+    left:58%;
+    top:7%;
+}
+.about {
+    width: 7%;
+    height:2%;
+    left:73%;
+    top:7%;
+}
+.contact {
+    width: 6%;
+    height:2%;
+    left:85.5%;
+    top:7%;
+}
+a {
+    color: blue;
+    float:left;
+    position:absolute;
+}
+.home_email {
+    width:18%;
+    height:2%;
+    left:76%;
+    top:87%;
+}
+.overview_email {
+    width:18%;
+    height:2%;
+    left:42%;
+    top:86%;
+}
+.custom_email {
+    float:none;
+    width:18%;
+    height:2%;
+    left:42%;
+    top:86%;
+}
+.surface_email {
+    float:none;
+    width:18%;
+    height:2%;
+    left:42%;
+    top:88.5%;
+    
+}
+.underground_email {
+    float:none;
+    width:18%;
+    height:2%;
+    left:42%;
+    top:88.5%;
+    
+}
+.about_email {
+    float:none;
+    width:18%;
+    height:2%;
+    left:42%;
+    top:80%;
+    
+}
+.contact_email_1 {
+    float:none;
+    width:18%;
+    height:2%;
+    left:30%;
+    top:61%;
+}
+.contact_email_2 {
+    float:none;
+    width:18%;
+    height:2%;
+    left:30%;
+    top:63.5%;
+}
+form {
+    float:none;
+    position: absolute;
+    left:65%;
+    top:30%;
+    height:80%;
+    max-width: 720px;
+}
+input {
+    height:100%;
+    width:35%;
+}
+select {
+    height:100%;
+    width:35%;
+}
+textarea {
+    height:10vw;
+    width:35%;
+    resize:none;
+    object-fit: cover;
+}
+.name {
+    position:absolute;
+    top:1%;
+}
+.email {
+    position:absolute;
+    top:7%;
+}
+.country {
+    position:absolute;
+    top:14%;
+}
+.time {
+    position:absolute;
+    top:21%;
+}
+.phone {
+    position:absolute;
+    top:27.5%;
+}
+.message {
+    position:absolute;
+    top:34%;
+}
+.submit {
+    float:none;
+    position:absolute;
+    top:73%;
+    left:65%;    
+}
