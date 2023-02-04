@@ -69,40 +69,36 @@ a {
     top:95%;
 }
 .overview_email {
-    width:18%;
-    height:2%;
-    left:42%;
-    top:86%;
+    width:28%;
+    height:1.2%;
+    left:38%;
+    top:95%;
 }
 .custom_email {
-    float:none;
-    width:18%;
-    height:2%;
-    left:42%;
-    top:86%;
+    width:28%;
+    height:1.2%;
+    left:38%;
+    top:95%;
 }
 .surface_email {
-    float:none;
-    width:18%;
-    height:2%;
-    left:42%;
-    top:88.5%;
+    width:28%;
+    height:1.2%;
+    left:38%;
+    top:95%;
     
 }
 .underground_email {
-    float:none;
-    width:18%;
-    height:2%;
-    left:42%;
-    top:88.5%;
+    width:28%;
+    height:1.2%;
+    left:38%;
+    top:94.4%;
     
 }
 .about_email {
-    float:none;
-    width:18%;
-    height:2%;
-    left:42%;
-    top:80%;
+    width:28%;
+    height:1.2%;
+    left:55%;
+    top:95%;
     
 }
 .contact_email_1 {
